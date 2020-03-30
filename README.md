@@ -1,6 +1,11 @@
-# Scriptor
+# Sunny mishra's blog
 
-Scriptor is a simple, minimal, clean & responsive Jekyll theme for writers.
+A minimal & modern blog covering Sunny's Life and Career journey 
+as a Software Developer. Learn Product based software company interview strategies and 
+an anecdote or two from his expriences as a Senior Developer.
+
+
+This blog is made using Jekyll Scriptor Theme. Below are steps to deploy the blog:
 
 [Live Demo](https://scriptor-jekyll.netlify.com/) &nbsp; | &nbsp; [Download](https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme/archive/master.zip) &nbsp;
 
