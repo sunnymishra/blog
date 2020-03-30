@@ -17,10 +17,10 @@ as a Software Developer. Learn Product based software company interview strategi
 an anecdote or two from his expriences as a Senior Developer."
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: "/blog"
+baseurl: #"/blog"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://sunnymishra.github.io"
+url: "http://www.sunnymishra.com"
 
 linkedin_profile_url: https://www.linkedin.com/in/sunny-mishra
 
