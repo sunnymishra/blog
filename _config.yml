@@ -20,7 +20,7 @@ an anecdote or two from his expriences as a Senior Developer."
 baseurl: "/blog"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://scriptor-jekyll.netlify.com"
+url: "https://sunnymishra.github.io"
 
 linkedin_profile_url: https://www.linkedin.com/in/sunny-mishra
 
