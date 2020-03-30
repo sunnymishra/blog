@@ -2,7 +2,7 @@
 layout: page
 title: About this blog
 description: An optional about page for this blog
-feature_image: images/about4.png
+feature_image: images/about.png
 ---
 
 Hello! I am Sunny Mishra, the creator of this blog. Professionally I am a senior developer with a decade of experience working on Backend architecture solutions. An an hobbyist I would like to call myself a Storyteller. I am also trying to become a YouTuber, but that's a story for another day.
