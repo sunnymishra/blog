@@ -17,7 +17,7 @@ as a Software Developer. Learn Product based software company interview strategi
 an anecdote or two from his expriences as a Senior Developer."
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: "sunnymishrablog"
+baseurl: "/blog"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
 url: "https://scriptor-jekyll.netlify.com"
