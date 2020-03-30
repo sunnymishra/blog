@@ -37,8 +37,12 @@ layout: default
         {% if site.data.author.location and site.data.author.location != "" %}
         <span class="author-location">{{ site.data.author.location}}</span>
         {% endif %}
+        <br>
         {% if site.data.author.url and site.data.author.url != "" %}
-        <span class="author-website"><a href="{{ site.data.author.url }}" target="_blank" rel="noopener">{{ site.data.author.url }}</a></span>
+        <span class="author-website"><a href="{{ site.data.author.url }}" target="_blank" rel="noopener">Website</a></span>
+        {% endif %}
+        {% if site.data.author.linkedin and site.data.author.linkedin != "" %}
+        |&nbsp;&nbsp;&nbsp;<span class="author-website"><a href="{{ site.data.author.linkedin }}" target="_blank" rel="noopener">LinkedIn</a></span>
         {% endif %}
       </div><!-- .author-details -->
     </div><!-- .author-box -->
