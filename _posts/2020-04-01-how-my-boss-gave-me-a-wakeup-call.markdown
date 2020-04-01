@@ -54,8 +54,11 @@ Over the next several months, I took regular feedback and did course correction 
 
 It took time but over the years I see the changes within are apparent. The empathy has grown manifolds time and it reflects in work and personal space. Needless to say, I have grown in my career much higher with a strong foundation.
 
-<br>
-Thank you for reading!!
+
+>Happiness blooms in the presence of self-respect, and the absence of ego. 
+<cite> ― Jonathan Lockwood</cite>
+
+*Thank You for reading!*
 
 <br>
 Image credit: <cite>Photo by Ali Morshedlou on Unsplash</cite>
