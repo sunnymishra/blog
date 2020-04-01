@@ -1,4 +1,4 @@
-# Sunny mishra's blog
+# Sunny mishra
 
 A minimal & modern blog covering Sunny's Life and Career journey 
 as a Software Developer. Learn Product based software company interview strategies and 

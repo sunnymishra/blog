@@ -9,12 +9,12 @@
 lang: en-US
 
 # Site title
-title: "Sunny Mishra's Blog"
+title: "Sunny Mishra"
 
 # A description of your site for meta tag, search engine results.
-description: "A minimal & modern blog covering Sunny's Life and Career journey 
-as a Software Developer. Learn Product based software company interview strategies and 
-an anecdote or two from his expriences as a Senior Developer."
+description: "A minimal & modern blog covering the Life and Journey 
+of a Software Developer. Learn Product based software company interview strategies and 
+an anecdote or two from these experiences."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: #"/blog"
@@ -73,3 +73,10 @@ markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
+
+defaults:
+  -
+    scope:
+      path: "assets/**/*.pdf"
+    values:
+      sitemap: false
