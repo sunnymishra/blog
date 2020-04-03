@@ -28,7 +28,7 @@ linkedin_profile_url: https://www.linkedin.com/in/sunny-mishra
 favicon: images/favicon.png
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
-google_analytics: ""
+google_analytics: "UA-162755346-1"
 
 # Site navigation - each item must have a title and a url.
 navigation:

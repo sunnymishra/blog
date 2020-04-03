@@ -52,7 +52,7 @@ When I was a decade younger I used to save money and learn new technologies like
 
 Now I just buy a Udemy course for any new technology like Docker, Kubernetes and do the training while getting assistance from the trainer and the community in that site.
 
-Well, that should get you started. I mean if you wanted to acquire that nice hot skill you had your eye on, do so, but remember going to the platform which provides professional learning communities as the main agenda. Sites like [Udemy.com](Udemy.com), [Coursera.org](Coursera.org) are good and if you have enough time on your watch a coaching center in the city is always there for you.
+Well, that should get you started. I mean if you wanted to acquire that nice hot skill you had your eye on, do so, but remember going to the platform which provides professional learning communities as the main agenda. Sites like [Udemy](Udemy.com) and [Coursera](Coursera.org) are good and if you have enough time on your watch a coaching center in the city is always there for you.
 
 > You can day-dream about winning the world, but without taking the first step, you would still be where you are.
 <cite> ― Anonymous</cite>
