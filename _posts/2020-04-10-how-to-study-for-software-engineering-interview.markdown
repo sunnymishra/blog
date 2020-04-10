@@ -43,7 +43,7 @@ Enough talking! Let's get into some concrete stuff. Now in this post, I will tak
 This sounds obvious but not many job aspirants write their goals. They say they want to change their job, but the key is to set the exact goal, the exact company they want to apply. Time to fix that problem.
 
 Go to Google and type: "Top product-based software companies in Bangalore"
-You will get dozens of results, pick about 20 software company names from the Google search result into your notepad. Now there will be few companies on that list which you have heard already and there will few which you have never heard of. Go to [Glassdoor website](www.glassdoor.co.in) and research about those unheard companies.
+You will get dozens of results, pick about 20 software company names from the Google search result into your notepad. Now there will be few companies on that list which you have heard already and there will few which you have never heard of. Go to [Glassdoor website](https://www.glassdoor.co.in) and research about those unheard companies.
 Now you have solid 20 companies you have to target. Good! now let's move to the next step.
 
 ## Step 2: Know your goal well
