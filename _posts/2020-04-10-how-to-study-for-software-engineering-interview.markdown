@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to study for software engineering interview: A step by step guide for Product based company interview preparation"
+title:  "How to study for software engineering interview: A step by step guide to interview preparation for top Product based companies in world"  
 date:   2020-04-10 15:02:35 +0530
 feature_image: images/whiteboard-interview.jpg
 tags: [interviewtips]
@@ -47,7 +47,7 @@ You will get dozens of results, pick about 20 software company names from the Go
 Now you have solid 20 companies you have to target. Good! now let's move to the next step.
 
 ## Step 2: Know your goal well
-Now that you have a list of companies to target, you need to know them well. Here's what I did: I researched about the interview process of each of those 20 Product based companies. After a few hours of Google search, the Interview patterns started emerging as follows.
+Now that you have a list of companies to target, you need to know them well. Here's what I did: I researched about the interview process of each of those 20 Product based it companies. After a few hours of Google search, the Interview patterns started emerging as follows.
  
 ### Best Product Based company interview process:
 *FAANG companies, Uber, LinkedIn, Tower research, Twitter, etc in this category*  
@@ -59,7 +59,7 @@ Now that you have a list of companies to target, you need to know them well. Her
 
 The whole process may take up to 2 months.
 
-### Good Product Based company interview process:
+### Top 10 product based companies interview process:
 *Intuit, Samsung labs, Paypal, Walmart, Flipkart, Netapp, Oracle, Ola, Paytm, Inmobi, Yodlee, Akamai, etc in this category*  
 *Screening round*{:.underline}: Expect 1 Online coding challenge on Hackerrank, etc for screening good candidates. Here you can be given a DSA problem to solve in less than 60 minutes. Or they can give you a Design problem which requires more than 1 hour to solve, eg. Simulate a Cricket 20-20 match with multiple teams or Simulate a Snake and Ladder game. You should write such programs using Object-oriented programming.  
 *Onsite Coding rounds*{:.underline}: Expect at least 2 Technical interviews focused on Data structure and Algorithm coding on Whiteboard or Laptop  
@@ -84,7 +84,7 @@ After going through above interview process info you will be overwhelmed. More o
 
 But wait, I would say. Let's do some gap analysis before signing this deal off the table. The problem here is the lack of the right attitude. We are engineers and we have to take each problem from a scientific mindset. Don't let emotions take that opportunity away.
 
-While you took the time to research these Product based companies and their interview processes on the Internet, it would be a good time to invest in knowing your self-worth. Meaning, what is the gap between what-you-already-know and where-you-have-to-reach to qualify for these Hi-tech company interviews. Let's be honest here: we are not perfect and we have a long way to go. But that doesn't mean you should settle for average and never even try.
+While you took the time to research these Product based IT companies and their interview processes on the Internet, it would be a good time to invest in knowing your self-worth. Meaning, what is the gap between what-you-already-know and where-you-have-to-reach to qualify for these Hi-tech product based software company interviews. Let's be honest here: we are not perfect and we have a long way to go. But that doesn't mean you should settle for average and never even try.
 
 As you would have guessed reading till here, the following skills are a must to appear for the interview:
 
@@ -117,7 +117,7 @@ Just so you know I also graduated from Tier 3 Engineering college where they had
 
 Now that you are done with the Gap-analysis of what is lacking in you, read further for the steps I have carefully crafted to prepare for Product based software company interview.
 
-### Topic 1: DSA preparation for Tech interview  
+### Topic 1: DSA preparation for Product based software company interview  
 For this section, I am assuming you are an intermediate programmer who has a very basic knowledge of DSA (short form for Data structure and Algorithm). Also, I am assuming you want to prepare for a good Product based company interview and for that you have a couple of months in your hand.
 
 #### Which Programming language to pick:
