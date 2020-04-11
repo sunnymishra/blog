@@ -6,7 +6,7 @@ feature_image: images/whiteboard-interview.jpg
 tags: [interviewtips]
 ---
 
-In 2016 while explaining the company's interview process, the recruiter of a reputed Software company asked me about my current CTC (salary package). This got me perplexed because my current salary was far less compared to the market rate. Anyhow, I gave away my current salary information and the technical interviews followed over the next few days which I cleared over the next few weeks.
+In 2016 while explaining the company's interview process, the recruiter of a reputed Software company asked me about my current CTC (salary package). This got me perplexed because my current salary was far less compared to the market rate. Anyhow, I gave away my current salary information and the technical interviews followed which I cleared over the next few weeks.
 
 <!--more-->
 
@@ -24,7 +24,7 @@ I did not join that company.
 ## Don't sell yourself short in a job Interview
 Take a pause and think about it, what the hell is a 30% increment? If my current salary is Rs 20 lakh per annum in India, that would mean an increment of 6 lakhs per annum or Rs 50,000 per month. Sweet! 
 
-However, not everyone has a current salary of Rs 20 lakh. What about Rs 7 lakh? A 30% increment on 7 lakh would be Rs 2.1 lakh per annum or Rs 15,000 per month. Fine, but now you are in 15% instead of a 10% tax bracket, so you will pay more tax. Salary increment doesn't sound lucrative anymore, does it? Same story for a person with a current package of Rs 9 lakh per annum.
+However, not everyone has a current salary of Rs 20 lakh. What about Rs 7 lakh? A 30% increment on 7 lakh would be Rs 2.1 lakh per annum or Rs 15,000 per month. Fine, but now you are in 15% instead of a 10% tax bracket, so you will pay more tax. Salary increment doesn't sound lucrative anymore, does it?
 
 With growing inflation and high prices, you need more salary to make ends meet and have a comfortable lifestyle while saving something on the side.
 
@@ -50,7 +50,7 @@ Now you have solid 20 companies you have to target. Good! now let's move to the 
 Now that you have a list of companies to target, you need to know them well. Here's what I did: I researched about the interview process of each of those 20 Product based companies. After a few hours of Google search, the Interview patterns started emerging as follows.
  
 ### Best Product Based company interview process:
-*FAANG companies, Uber, LinkedIn, Tower research, Twitter, etc in this category*
+*FAANG companies, Uber, LinkedIn, Tower research, Twitter, etc in this category*  
 *Screening round*{:.underline} : Expect 1 or 2 Telephonic interviews with Live coding test with an Engineer on the other side  
 *Onsite Coding rounds*{:.underline}: Expect 3-4 Technical interviews focused on Data structure and Algorithm coding on Whiteboard or Laptop  
 *Onsite Design rounds*{:.underline}: Expect 1-2 System Design interviews on the Whiteboard (only for senior Candidates more than 5-6 years experience)  
@@ -63,11 +63,11 @@ The whole process may take up to 2 months.
 *Intuit, Samsung labs, Paypal, Walmart, Flipkart, Netapp, Oracle, Ola, Paytm, Inmobi, Yodlee, Akamai, etc in this category*  
 *Screening round*{:.underline}: Expect 1 Online coding challenge on Hackerrank, etc for screening good candidates. Here you can be given a DSA problem to solve in less than 60 minutes. Or they can give you a Design problem which requires more than 1 hour to solve, eg. Simulate a Cricket 20-20 match with multiple teams or Simulate a Snake and Ladder game. You should write such programs using Object-oriented programming.  
 *Onsite Coding rounds*{:.underline}: Expect at least 2 Technical interviews focused on Data structure and Algorithm coding on Whiteboard or Laptop  
-*Onsite Design rounds*{:.underline}: Expect 1 System Design interviews on the Whiteboard (only for senior Candidates more than 5 years experience)  
+*Onsite Design rounds*{:.underline}: Expect 1 System Design interview on the Whiteboard (only for senior Candidates more than 5 years experience)  
 *Hiring manager round*{:.underline}: Expect 1 round where they will test you on past work experience. If you are fresher they may also grill you on your projects and any Side-project or Opensource contributions. They are assessing if you are fit for their team. Some companies may instead have an HR testing your Communication, Behavior and Culture fit for their organization.  
 *HR discussion*{:.underline}: Salary negotiation, Perks and benefits
 
-The whole process may take up to 1 month and some companies may or may not add 1 more technical round before the Hiring Manager round.
+The whole process may take up to 1 month and some companies may add 1 more technical round before the Hiring Manager round.
 
 ### Other Product Based company/Startups interview process:
 *Screening round*{:.underline}: Pre-screening round may or may not happen  
@@ -79,8 +79,9 @@ It may or may not have Data structure and Algorithm questions. It may be specifi
 The whole process may take up to 1 month. Again, these companies don't have any documented interview process and \**everything depends*\*.
 
 ## Step 3: Do Gap-analysis
-After going through above interview processe info you will be overwhelmed. More often than not, you will feel incompetent to even apply to these top tier companies.  
-"Intuit, Walmart, Paypal, no these are beyond my capabilities. I am better off with whatever I have right now," many would think.  
+After going through above interview process info you will be overwhelmed. More often than not, you will feel incompetent to even apply to these top tier companies.  
+"Intuit, Walmart, Paypal, no these are beyond my capabilities. I am better off with whatever I have right now," many would think.
+
 But wait, I would say. Let's do some gap analysis before signing this deal off the table. The problem here is the lack of the right attitude. We are engineers and we have to take each problem from a scientific mindset. Don't let emotions take that opportunity away.
 
 While you took the time to research these Product based companies and their interview processes on the Internet, it would be a good time to invest in knowing your self-worth. Meaning, what is the gap between what-you-already-know and where-you-have-to-reach to qualify for these Hi-tech company interviews. Let's be honest here: we are not perfect and we have a long way to go. But that doesn't mean you should settle for average and never even try.
@@ -114,7 +115,7 @@ Just so you know I also graduated from Tier 3 Engineering college where they had
 ***
 ***
 
-Now that you are done the Gap-analysis of what is lacking in you, read further for the steps I have carefully crafted to prepare for Product based software company interview.
+Now that you are done with the Gap-analysis of what is lacking in you, read further for the steps I have carefully crafted to prepare for Product based software company interview.
 
 ### Topic 1: DSA preparation for Tech interview  
 For this section, I am assuming you are an intermediate programmer who has a very basic knowledge of DSA (short form for Data structure and Algorithm). Also, I am assuming you want to prepare for a good Product based company interview and for that you have a couple of months in your hand.
@@ -137,7 +138,8 @@ For good Product companies, a minimum of 6 months is required for preparation. I
 - Algorithm topics >> 
 	`Asymptotic Analysis, Search, Sorting, Randomized`, `General recursion, Backtracking`, `Branch n bound, Divide n conquer`, `Greedy, Dynamic programming`
 
-That makes it a total of 20 topics. Now I would like to emphasize here the importance of time-bound preparation strategy. Meaning you have to put a deadline for your overall preparation. I am telling that give yourself a gracious 6 month for complete preparation. Out of the 6 months break it into 2 parts:  
+That makes it a total of 20 topics. Now I would like to emphasize here the importance of time-bound preparation strategy. Meaning you have to put a deadline for your overall preparation. I am telling, give yourself a gracious 6 month for complete preparation. Break the 6 months into 2 parts:
+
 Step A: The basic concept of DSA: This will take at least 3 months  
 Step B: Problem-solving on Competitive website/Online Judge: This will take 3-4 months
 
