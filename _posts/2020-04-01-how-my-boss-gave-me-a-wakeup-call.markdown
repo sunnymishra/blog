@@ -59,7 +59,7 @@ It took time but over the years I see the changes within are apparent. The empat
 >Happiness blooms in the presence of self-respect, and the absence of ego. 
 <cite> ― Jonathan Lockwood</cite>
 
-*Thank You for reading!*
+*Thank You for reading!* As a bonus [here are the steps](/how-to-study-for-software-engineering-interview) I followed to get through the Product based company inteviews like a breeze.
 
 <br>
 Image credit: <cite>Photo by Ali Morshedlou on Unsplash</cite>

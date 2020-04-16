@@ -12,7 +12,7 @@ In the last few years while doing code review of junior developers I have notice
 
 Reflecting at past few years of my own coding experience, I have been lucky to get few bugs in my code. I always thought I was lucky as I didn't do anything special in my code. But recently I scoured through the internet and found a couple of programming best practices. I realized unknowingly I had been following these practices all along. 
 
-So here's the list. Also I have tried to reword some points so they sound funny and make it a less boring list to consume:
+Before you go any further, I reckon you may be interested in a Step-by-step guide of preparing for Product based company interview. Here is the [link for that](/how-to-study-for-software-engineering-interview) Guide for you. Alright, here's the list of pitfalls for new developers and they are reworded to sound funny and be less boring for you:
 
 
 &bull; Between Code-Optimization & Code-Readability, choose Code Readability. Always.
