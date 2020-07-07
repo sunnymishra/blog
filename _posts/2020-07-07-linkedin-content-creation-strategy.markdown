@@ -122,9 +122,13 @@ _"S"tory_{:.underline}: Storytelling comes naturally to us humans. It is the eas
 
 ### Why am I sharing this information?
 That brings us to the end of this post. Now you may wonder why do I want to share this information?
-It is a simple fact, if I know a formula that works, I can share it across to let the whole community grow with the shared knowledge. By nature of my personality, I like to share the knowledge I possess to help others grow. It is only through awareness that an individual and the society can strive for better goals and results. Also, it will help my feed get more quality content. Do leave in the comments section your views after reading this post.
+It is a simple fact, if I know a formula that works, I can share it across to let the whole community grow with the shared knowledge. By nature of my personality, I like to share the knowledge I possess to help others grow. It is only through awareness that an individual and the society can strive for better goals and results. Also, it will help my feed get more quality content. 
+
+Do leave in the comments section your views after reading this post.
 
 
 
 
-Image credit: <cite>Photo by Mimi Thian on Unsplash</cite>
+Image credit:    
+ <cite>Photo by Danielle MacInnes on Unsplash</cite>    
+ <cite>Photo by Greg Bulla on Unsplash</cite>
