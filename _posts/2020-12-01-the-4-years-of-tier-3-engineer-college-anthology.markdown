@@ -6,7 +6,7 @@ feature_image: images/college-graduation.jpg
 tags: [lifelessons]
 ---
 
-Someone I looked up to in college when asked 'How do you become a man?' replied this to me: "You first make a choice. Then you own up the outcome of the choice. You are a man."
+Someone I looked up to in college when asked '*How do you become a man?*' replied this to me: "*You first make a choice. Then you own up the outcome of the choice. You are a man.*"
 
 <!--more-->
 
