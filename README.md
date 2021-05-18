@@ -28,7 +28,7 @@ This theme contains a `stackbit.yaml` file and can be used with [Stackbit](https
 
 [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme)
 
-### Local Instalation
+### Local Installation
 
 To set up Jekyll on local machine please follow the official documentation that can be found here -> https://jekyllrb.com/docs/.
 
