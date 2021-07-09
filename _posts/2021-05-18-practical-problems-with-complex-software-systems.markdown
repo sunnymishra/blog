@@ -6,7 +6,7 @@ feature_image: images/messy-system.jpg
 tags: [softwaretips]
 ---
 
-Complexity in a system can change form and can be passed on to different parts of the whole system but it can never be removed. Complexity has to exist to solve complex business use-cases."
+Complexity in a system can change form and can be passed on to different parts of the whole system but it can never be removed. Complexity has to exist to solve complex business use-cases.
 
 <!--more-->
 
